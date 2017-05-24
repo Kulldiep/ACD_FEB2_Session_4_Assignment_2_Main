@@ -1,0 +1,14 @@
+.margin{
+    position: relative;
+    font-size: 12px;
+    width: 175px;
+    height: 86px;
+    background-color: blue;
+    border: 12px solid red;
+    margin: 25px;
+    text-align: left;
+    padding-top: 15px;
+    padding-right: 14px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+}
